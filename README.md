@@ -5,20 +5,9 @@
 Passionate computer engineer skilled in software development with a focus on mobile and web applications. Proficient in Android app development, web technologies including HTML, CSS, JavaScript, and PHP, as well as desktop application development using C++ and Java. Experienced in network administration and relational database management. Dedicated to ongoing learning and contributing to open-source projects. Proactive team player with a commitment to excellence in software development.
 
 ## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd284dW8xdWJyZXZ3MG5udDlnc3JxcWk5eGY4YmN0NDg4cW56bDA5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YOBYiO1RiAfK1cvI8l/giphy.gif" width = 50px></picture> My statistics
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
+
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andycg02&theme=dark&show_icons=true&count_private=true" />
 </td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andycg02&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></picture> My skills
