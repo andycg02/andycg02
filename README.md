@@ -6,7 +6,7 @@ Passionate computer engineer skilled in software development with a focus on mob
 
 ## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd284dW8xdWJyZXZ3MG5udDlnc3JxcWk5eGY4YmN0NDg4cW56bDA5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YOBYiO1RiAfK1cvI8l/giphy.gif" width = 50px></picture> My statistics
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andycg02&theme=dark&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=andycg02&theme=dark&show_icons=true&count_private=true" />
 </td>
 
 
